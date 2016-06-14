@@ -1,0 +1,258 @@
+ 1D 00 F7 n2 s50000
+Korg M1 All Data (prg,comb,glo,seq)=F0 42 FC 30 FD 19 0F 00 F7 n2 s50000
+Korg M1 Current Program=F0 42 FC 30 FD 19 10 F7 n2 s50000
+Korg M1 Current Combination=F0 42 FC 30 FD 19 19 F7 n2 s50000
+Korg M1 All Sequence=F0 42 FC 30 FD 19 18 00 F7 n2 s50000
+Korg 707=F0 42 30 11 10 F7
+Korg DDD-1=F0 42 30 12 10 F7
+Korg M3R Current Comb=F0 42 FC 30 FD 24 19 F7
+Korg M3R All Comb=F0 42 FC 30 FD 24 1D 00 F7
+Korg M3R Current Program=F0 42 FC 30 FD 24 10 F7
+Korg M3R All Programs=F0 42 FC 30 FD 24 1C 00 F7
+Korg M3R Drum Kit=F0 42 FC 30 FD 24 0D 00 F7
+Korg M3R Global=F0 42 FC 30 FD 24 0E 00 F7
+Korg M3R All Data=F0 42 FC 30 FD 24 0F 00 F7
+Korg T1 All Program A Parameter Request=F0 42 30 19 1C 00 F7
+Korg T1 All Program B Parameter Request=F0 42 30 19 1C 01 F7
+Korg T1 All Combination Parameter Request=F0 42 30 19 1D 00 F7
+Korg T1 All Sequence Data Request=F0 42 30 26 18 00 F7
+Korg T1 Global Data Request=F0 42 30 19 0E 00 F7
+Korg DW-6000 Internal Voice=F0 42 30 04 10 FE F7
+Korg T3 All Sequences=F0 42 FC 30 FD 26 18 00 F7
+Korg T3 All Combinations=F0 42 FC 30 FD 26 1D 00 F7
+Korg T3 All Programs=F0 42 FC 30 FD 26 1C 00 F7
+Korg T3 Global Data=F0 42 FC 30 FD 26 0E 00 F7
+Korg Wavestation RAM1 Patches=F0 42 FC 30 FD 28 1C 00 F7
+Korg Wavestation RAM2 Patches=F0 42 FC 30 FD 28 1C 01 F7
+Korg Wavestation ROM Patches=F0 42 FC 30 FD 28 1C 02 F7
+Korg Wavestation Card Patches=F0 42 FC 30 FD 28 1C 03 F7
+Korg Wavestation RAM1 Performances=F0 42 FC 30 FD 28 1D 00 F7
+Korg Wavestation RAM2 Performances=F0 42 FC 30 FD 28 1D 01 F7
+Korg Wavestation ROM Performances=F0 42 FC 30 FD 28 1D 02 F7
+Korg Wavestation Card Performances=F0 42 FC 30 FD 28 1D 03 F7
+Korg Wavestation RAM1 Wave Seq=F0 42 FC 30 FD 28 0C 00 F7
+Korg Wavestation RAM2 Wave Seq=F0 42 FC 30 FD 28 0C 01 F7
+Korg Wavestation ROM Wave Seq=F0 42 FC 30 FD 28 0C 02 F7
+Korg Wavestation Card Wave Seq=F0 42 FC 30 FD 28 0C 03 F7
+Korg Wavestation System Setup=F0 42 FC 30 FD 28 0E F7
+Kurzweil K1000+ RAM Programs=F0 07 FD 64 03 00 50 00 00 01 F7
+Kurzweil K1000+ Master Param Table=F0 07 FD 64 03 00 42 00 00 01 F7
+Kurzweil K1000+ System Memory=F0 07 FD 64 03 00 42 00 10 01 F7
+Lexicon LXP-1=F0 06 02 30 61 00 F7
+Lexicon LXP-5=F0 06 05 30 61 00 F7
+Oberheim Matrix 6 All=F0 10 06 04 0  0 F7
+Oberheim Matrix 6 Single Patch=F0 10 06 04 1 FD F7
+Oberheim Matrix 6 Split Patch=F0 10 06 04 2 FD F7
+Oberheim Matrix 6 Master Parameters=F0 10 06 04 3  0 F7
+Peavey DPM 3 Current Program=F0 00 00 1B 02 01 00 02 7D F7
+Peavey DPM 3 Edit Buffer=F0 00 00 1B 02 01 00 02 7E F7
+Peavey DPM 3 All Programs=F0 00 00 1B 02 01 00 02 7F F7
+Peavey DPM 3 Program (0-99)=F0 00 00 1B 02 01 00 02 FE F7
+Peavey DPM 3 Current Effect=F0 00 00 1B 02 01 00 05 7D F7
+Peavey DPM 3 Edit Buffer Effect=F0 00 00 1B 02 01 05 7E F7
+Peavey DPM 3 All Effects=F0 00 00 1B 02 01 00 05 7F F7
+Peavey DPM 3 Effect (0-99)=F0 00 00 1B 02 01 00 05 FE F7
+Peavey DPM 3 Sequences=F0 00 00 1B 02 01 00 03 F7
+Peavey DPM 3 Globals=F0 00 00 1B 02 01 00 07 F7
+Peavey DPM 3 Drum Kits=F0 00 00 1B 02 01 00 09 F7
+Roland A-80 Dump Request=F0 41 00 27 11 00 F7
+Roland MT-32 System Area=F0 41 FD 16 11 10 00 00 00 00 17 59 F7
+Roland MT-32 Patch Memory=F0 41 FD 16 11 05 00 00 03 00 00 78 F7
+Roland MT-32 Timbre Memory=F0 41 FD 16 11 08 00 00 02 00 00 76 F7
+Roland D-50 Current Patch=F0 41 FD 14 11 00 00 00 00 04 00 7C F7
+Roland D-50 Bulk Dump=F0 41 00 14 41 00 00 00 00 03 00 6D F7
+Roland JV-80 Temp Perf=F0 41 10 46 11 00 00 10 00 00 01 00 00 6F F7
+Roland JV-80 Temp Rhythm=F0 41 10 46 11 00 07 40 00 00 00 33 00 06 F7
+Roland JV-80 Temp Patch=F0 41 10 46 11 00 08 20 00 00 01 00 00 57 F7
+Roland JV-80 Int Rhythm=F0 41 10 46 11 01 7F 40 00 00 00 33 00 0D F7
+Roland JV-80 Perf 1-16=F0 41 10 46 11 01 00 10 00 00 15 00 00 5A F7                                 ----------- ----------- --
+Roland JV-80 Patch 11-18=F0 41 10 46 11 01 40 20 00 00 08 00 00 17 F7
+Roland JV-80 Patch 21-28=F0 41 10 46 11 01 48 20 00 00 08 00 00 0F F7
+Roland JV-80 Patch 31-38=F0 41 10 46 11 01 50 20 00 00 08 00 00 07 F7
+Roland JV-80 Patch 41-48=F0 41 10 46 11 01 58 20 00 00 08 00 00 7F F7
+Roland JV-80 Patch 51-58=F0 41 10 46 11 01 60 20 00 00 08 00 00 77 F7
+Roland JV-80 Patch 61-68=F0 41 10 46 11 01 68 20 00 00 08 00 00 6F F7
+Roland JV-80 Patch 71-78=F0 41 10 46 11 01 70 20 00 00 08 00 00 67 F7
+Roland JV-80 Patch 81-88=F0 41 10 46 11 01 78 20 00 00 08 00 00 5F F7
+Roland S-550 Patch 1-16=F0 41 00 1E 11 00 00 00 00 00 00 40 00 40 F7
+Roland S-550 Patch 17-32=F0 41 00 1E 11 00 00 40 00 00 00 40 00 00 F7
+Roland S-550 Function Parameters=F0 41 00 1E 11 00 01 00 00 00 00 08 00 77 F7
+Roland S-550 Midi Parameters=F0 41 00 1E 11 00 02 00 00 00 00 04 00 7A F7
+Roland S-550 Tone Parameters=F0 41 00 1E 11 00 03 00 00 00 00 02 00 7B F7
+Roland D-110 Patch/Tone Bank=F0 41 10 16 11 08 00 00 01 00 00 77 F7
+Roland D-110 Drumset=F0 41 10 16 11 03 01 10 00 02 54 16 F7
+Roland D-110 Timbre Table=F0 41 10 16 11 05 00 00 00 08 00 73 F7
+Roland D-110 Current Patch=F0 41 10 16 11 03 00 00 00 01 10 6C F7
+Roland D-110 Current Tone=F0 41 10 16 11 04 00 00 00 01 76 05 F7
+Roland D-20 Patches=F0 41 FD 16 11 07 00 00 00 26 00 53 F7
+Roland D-20 Timbers=F0 41 FD 16 11 05 00 00 00 07 78 7C F7
+Roland D-20 Tones=F0 41 FD 16 11 08 00 00 00 7F 76 03 F7
+Roland JD-800 Single-mode Patch=F0 41 10 3D 11 00 00 00 00 03 00 7D F7
+Roland JD-800 Patches (Parts 1-5)=F0 41 10 3D 11 00 10 00 00 0D 1A 49 F7
+Roland JD-800 Part 1 Patch=F0 41 10 3D 11 00 10 00 00 02 52 1C F7
+Roland JD-800 Part 2 Patch=F0 41 10 3D 11 00 12 52 00 02 52 48 F7
+Roland JD-800 Part 3 Patch=F0 41 10 3D 11 00 15 24 00 02 52 73 F7
+Roland JD-800 Part 4 Patch=F0 41 10 3D 11 00 17 76 00 02 52 1F F7
+Roland JD-800 Part 5 Patch=F0 41 10 3D 11 00 1A 48 00 02 52 4A F7
+Roland JD-800 Special Setup Temp=F0 41 10 3D 11 01 00 00 00 2A 02 53 F7
+Roland JD-800 System Area=F0 41 10 3D 11 02 00 00 00 00 19 65 F7
+Roland JD-800 Part Area=F0 41 10 3D 11 03 00 00 00 00 22 5B F7
+Roland JD-800 Special Setup Mem=F0 41 10 3D 11 04 00 00 00 2A 02 50 F7
+Roland JD-800 Patch Memory Area=F0 41 10 3D 11 05 00 00 01 40 00 3A F7
+Roland SoundCanvas Complete=F0 41 10 42 11 48 00 00 00 1D 10 0B F7
+Roland SoundCanvas Effects/Common=F0 41 10 42 11 48 00 10 00 01 00 27 f7
+Roland SoundCanvas Part 01=F0 41 10 42 11 48 02 70 00 01 60 65 F7
+Roland SoundCanvas Part 02=F0 41 10 42 11 48 04 50 00 01 60 03 F7
+Roland SoundCanvas Part 03=F0 41 10 42 11 48 06 30 00 01 60 21 F7
+Roland SoundCanvas Part 04=F0 41 10 42 11 48 08 10 00 01 60 3F F7
+Roland SoundCanvas Part 05=F0 41 10 42 11 48 09 70 00 01 60 5E F7
+Roland SoundCanvas Part 06=F0 41 10 42 11 48 0B 50 00 01 60 7C F7
+Roland SoundCanvas Part 07=F0 41 10 42 11 48 0D 30 00 01 60 1A F7
+Roland SoundCanvas Part 08=F0 41 10 42 11 48 0F 10 00 01 60 38 F7
+Roland SoundCanvas Part 09=F0 41 10 42 11 48 10 70 00 01 60 57 F7
+Roland SoundCanvas Part 10=F0 41 10 42 11 48 01 10 00 01 60 46 F7
+Roland SoundCanvas Part 11=F0 41 10 42 11 48 12 50 00 01 60 75 F7
+Roland SoundCanvas Part 12=F0 41 10 42 11 48 14 30 00 01 60 13 F7
+Roland SoundCanvas Part 13=F0 41 10 42 11 48 16 10 00 01 60 31 F7
+Roland SoundCanvas Part 14=F0 41 10 42 11 48 17 70 00 01 60 50 F7
+Roland SoundCanvas Part 15=F0 41 10 42 11 48 19 50 00 01 60 6E F7
+Roland SoundCanvas Part 16=F0 41 10 42 11 48 1B 30 00 01 60 0C F7
+Roland U-20 Setup (22 bytes)=F0 41 10 2B 11 00 00 00 00 00 0C 74 F7
+Roland U-20 Sound Patch (180 bytes)=F0 41 10 2B 11 00 06 00 00 01 20 59 F7
+Roland U-20 Timbre 1 (74 bytes)=F0 41 10 2B 11 00 10 00 00 00 40 30 F7
+Roland U-20 Timbre 2 (74 bytes)=F0 41 10 2B 11 00 11 00 00 00 40 2F F7
+Roland U-20 Timbre 3 (74 bytes)=F0 41 10 2B 11 00 12 00 00 00 40 2E F7
+Roland U-20 Timbre 4 (74 bytes)=F0 41 10 2B 11 00 13 00 00 00 40 2D F7
+Roland U-20 Timbre 5 (74 bytes)=F0 41 10 2B 11 00 14 00 00 00 40 2C F7
+Roland U-20 Timbre 6 (74 bytes)=F0 41 10 2B 11 00 15 00 00 00 40 2B F7
+Roland U-20 Rhythm Setup (1698 bytes)=F0 41 10 2B 11 00 20 00 00 0C 20 34 F7
+Roland U-20 / U-220 (11040 bytes)=F0 41 10 2B 11 03 00 00 00 50 00 2D F7
+Roland U-20 Rhy (6762 bytes)=F0 41 10 2B 11 05 00 00 00 31 00 4A F7
+Roland U-20 All Keyboard Patches (4416 bytes)=F0 41 10 2B 11 01 00 00 00 40 00 3F F7
+Roland U-20 All Timbres (8832 bytes)=F0 41 10 2B 11 02 00 00 01 00 00 7D F7
+Roland U-20 All Rhythm Setup (6762 bytes)=F0 41 10 2B 11 05 00 00 00 62 00 19 F7
+Roland U-20 All Sound Patches (11040 bytes)=F0 41 10 2B 11 03 00 00 01 20 00 5C F7
+Roland U-20 All Chord Set (1932 bytes)=F0 41 10 2B 11 06 00 00 00 1C 00 5E F7
+Roland U-20 All RAM Card (70656 if any)=F0 41 10 2B 11 08 00 00 04 00 00 74 F7
+Roland U-20 Keyboard Temporary (74 bytes)=F0 41 10 2B 11 00 01 00 00 00 40 3F F7
+Roland U-20 Chord 1 (244 bytes)=F0 41 10 2B 11 00 02 00 00 01 60 1D F7
+Roland U-20 Chord 2 (244 bytes)=F0 41 10 2B 11 00 04 00 00 01 60 1B F7
+Sequential Six-Trak 1 Patch=F0 01 00 FE F7
+Sequential Max 1 Patch=F0 01 00 FE F7
+Sequential Multi-Trak 1 Patch=F0 01 00 FE F7
+Sequential Multi-Trak All Patches=F0 01 00 64 F7
+Tascam 688=F0 4E 10 02 F7
+Yamaha FB-01 Voice Bank=F0 43 75 FD 20 00 FE F7
+Yamaha FB-01 Current Config=F0 43 75 FD 20 01 00 F7
+Yamaha FB-01 Config #=F0 43 75 FD 20 02 FE F7
+Yamaha FB-01 All Configs=F0 43 75 FD 20 03 00 F7
+Yamaha FB-01 Instr. Voice=F0 43 75 FD FC 28 FE 00 00 F7
+Yamaha DX-100 Int Voice Bank Channel 2=F0 43 21 04 F7
+Yamaha DX-100 Single Voice Channel 2=F0 43 21 03 F7
+Yamaha DX-2 32 Voices (Banks A+B)=F0 43 20 04 F7
+Yamaha DX-2 Single Voice (Buf.)=F0 43 20 03 F7
+Yamaha DX-7 II Single Voice Data=F0 43 FC FD 20 09 F7
+Yamaha DX-7 II Performance Data=F0 43 FC FD 20 7E 4C 4D 20 20 38 39 37 33 50 4D F7
+Yamaha DX-21 32 Voices (Banks A&B)=F0 43 20 04 F7
+Yamaha DX-21 Single Voice (Buffer)=F0 43 20 03 F7
+Yamaha RX5 (32810 bytes in MIDI job 10)=F0 43 21 7E F7
+Yamaha RX-11=F0 43 20 7E F7
+Yamaha TX802 PF=F0 43 20 7E 4C 4D 20 20 38 39 35 32 50 4D F7
+Yamaha RY-30 All Data=F0 43 20 7E 4C 4D 20 20 30 30 31 37 20 20 F7
+Yamaha RY-30 1 Voice=F0 43 20 7A 4C 4D 20 20 30 30 31 37 20 20 00 00 00 00 00 00 00 00 00 00 00 00 00 00 FE 02 F7
+Yamaha RY-30 Sync Clock Internal=F0 43 10 30 00 00 00 00 00 F7
+Yamaha RY-30 Sync Clock Midi=F0 43 10 30 00 00 7F 00 00 F7
+Yamaha SY-22 Single Voice=F0 43 FC 20 FD 7E 50 4B 20 20 32 32 30 33 41 45 F7
+Yamaha SY-22 All Voices, Multi-Play=F0 43 FC 20 FD 7E 50 4B 20 20 32 32 30 33 56 45 F7
+Yamaha SY-77 Bulk Protect Off=F0 43 10 34 0F 00 00 34 00 00 F7
+Yamaha SY-77 1 Voice=F0 43 20 7A 4C 4D 20 20 38 31 30 31 56 43 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 FE F7
+Yamaha SY-77 1 Multi=F0 43 20 7A 4C 4D 20 20 38 31 30 31 4D 55 00 00 00 00 00        00 00 00 00 00 00 00 00 00 00 FE F7
+Yamaha SY-77 1 Pan=F0 43 20 7A 4C 4D 20 20 38 31 30 31 50 4E 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 FE F7
+Yamaha SY-77 1 Micro Tuning=F0 43 20 7A 4C 4D 20 20 38 31 30 31 4D 54 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 FE F7
+Yamaha SY-77 System Setup=F0 43 20 7A 4C 4D 20 20 38 31 30 31 53 59 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 F7
+Yamaha SY-77 Sequencer Setup=F0 43 20  7E 4C 4D 20 20 38 31 30 31 53 53 F7
+Yamaha SY85/TG500 Normal Voice=F0 43 20 7A 4C 4D 20 20 30 30 36 35 56 43 00 00 00 00 00 00 00 00 00 00 00 00 00 00 7F 00 F7                               
+Yamaha SY85/TG500 Drum Voice=F0 43 20 7A 4C 4D 20 20 30 30 36 35 44 52 00 00 00 00 00 00 00 00 00 00 00 00 00 00 7F 3F F7
+Yamaha SY85/TG500 Performance=F0 43 20 7A 4C 4D 20 20 30 30 36 35 50 46 00 00 00 00 00 00 00 00 00 00 00 00 00 00 7F 00 F7
+Yamaha SY85/TG500 Multi (Song)=F0 43 20 7A 4C 4D 20 20 30 30 36 35 4D 55 00 00 00 00 00 00 00 00 00 00 00 00 00 00 7F 00 F7
+Yamaha TG500 Synthesiser Setup=F0 43 20 7A 4C 4D 20 20 30 30 36 36 53 59 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 F7
+Yamaha SY85/TG500 Sample=F0 43 20 7A 4C 4D 20 20 30 30 34 30 53 41 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 FE F7
+Yamaha SY85 Sequencer Setup=F0 43 20 7A 4C 4D 20 20 30 30 36 35 53 53 00 00 00 00 00 00 00 00 00 00 00 00 00 00 7F 00 F7
+Yamaha SY85 Synthesiser Setup=F0 43 20 7A 4C 4D 20 20 30 30 36 35 53 59 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 F7
+Yamaha SY85 Rhythm Track & Data=F0 43 20 7A 4C 4D 20 20 30 30 36 35 52 59 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 F7
+Yamaha SY85 All Sequences=F0 43 20 7A 4C 4D 20 20 30 30 36 35 53 51 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 F7
+Yamaha TG-33 1 Voice=F0 43 21 7E 4C 4D 20 20 30 30 31 32 56 45 FE F7
+Yamaha TG-33 64 Voice=F0 43 21 7E 4C 4D 20 20 30 30 31 32 56 43 F7
+Yamaha TG-33 1 Multi=F0 43 21 7E 4C 4D 20 20 30 30 31 32 4D 45 F7
+Yamaha TG-33 16 Multi=F0 43 21 7E 4C 4D 20 20 30 30 31 32 4D 55 F7
+Yamaha TG-33 All Data=F0 43 21 7E 4C 4D 20 20 30 30 31 32 53 59 F7
+Yamaha TX7  1 Performance Bulk Data (102 bytes)=F0 43 FC 20 FD 01 F7
+Yamaha TX7  1 Voice Bulk Data (163 bytes)=F0 43 FC 20 FD 00 F7
+Yamaha TX7  Condition Acknowledge (24 bytes)=F0 43 FC 20 FD 7D F7
+Yamaha TX7 32 Voice Bulk Data (4104 bytes)=F0 43 FC 20 FD 09 F7
+Yamaha TX7 64 Performance Bulk Data (4104 bytes)=F0 43 FC 20 FD 02 F7
+Yamaha TX7  Algorithm selector Chan. 1 (0..31)=F0 43 10 01 06 FE F7
+Yamaha TX7  Attenuation Channel 1 (0..7)=F0 43 10 04 1A FE F7
+Yamaha TX7  Concert Pitch Selector Ch.1 (24 is C3) = F0 43 10 01 10 FE F7
+Yamaha TX7  Master Tune Chan. 1 (48 is 440 Hz.) =      F0 43 10 04 40 FE F7
+Yamaha TX7  Pitch Bend Range Channel 1 (0..12)=F0 43 10 04 03 FE F7
+Yamaha TX7 Memory Protect Off Channel 1=F0 43 10 11 07 00 F7
+Yamaha TX7 Tune 440 Channel 1=F0 43 10 04 40 40 F7
+Yamaha TX7 Tune 442 Channel 1=F0 43 10 04 40 47 F7
+Yamaha TX81Z 1 Performance (128 bytes) =F0 43 FC 20 FD 7E 4C 4D 20 20 38 39 37 36 50 45 F7
+Yamaha TX81Z 1 Voice (142) =F0 43 FC 20 FD 7E 4C 4D 20 20 38 39 37 36 41 45 F7
+Yamaha TX81Z 24 Performance (2450) =F0 43 FC 20 FD 7E 4C 4D 20 20 38 39 37 36 50 4D F7
+Yamaha TX81Z 32 Voice (4104) =F0 43 FC 20 FD 04 F7
+Yamaha TX81Z Effect Data (73) =F0 43 FC 20 FD 7E 4C 4D 20 20 38 39 37 36 53 32 F7
+Yamaha TX81Z Micro Tune Full Kbd (274) =F0 43 FC 20 FD 7E 4C 4D 20 20 4D 43 52 54 45 31 F7
+Yamaha TX81Z Micro Tune Octave (42) =F0 43 FC 20 FD 7E 4C 4D 20 20 4D 43 52 54 45 30 F7
+Yamaha TX81Z Program Change Table (274) =F0 43 FC 20 FD 7E 4C 4D 20 20 38 39 37 36 53 31 F7
+Yamaha TX81Z System Setup (45) =F0 43 FC 20 FD 7E 4C 4D 20 20 38 39 37 36 53 30 F7
+Yamaha TX81Z Memory Protect Off =F0 43 FC 10 FD 10 7B 08 00 F7
+Yamaha TX81Z Tune 440 =F0 43 FC 10 FD 10 7B 00 40 F7
+Yamaha TX81Z Tune 442 =F0 43 FC 10 FD 10 7B 00 47 F7
+
+                                                                                                                                                                                                                                                                                                                                                                 ÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿØÿà JFIF      ÿþ LEAD Technologies Inc. V1.01 ÿÛ „ 4"@.0&4LCPOKCIHT_yfTYr[HIijr}‡‰‡Qe•Ÿ“„žy…‡‚>"">‚WIW‚‚‚‚‚‚‚‚‚‚‚‚‚‚‚‚‚‚‚‚‚‚‚‚‚‚‚‚‚‚‚‚‚‚‚‚‚‚‚‚‚‚‚‚‚‚‚‚‚‚ÿÄ¢          	
+       	
+   } !1AQa"q2‘¡#B±ÁRÑð$3br‚	
+%&'()*456789:CDEFGHIJSTUVWXYZcdefghijstuvwxyzƒ„…†‡ˆ‰Š’“”•–—˜™š¢£¤¥¦§¨©ª²³´µ¶·¸¹ºÂÃÄÅÆÇÈÉÊÒÓÔÕÖ×ØÙÚáâãäåæçèéêñòóôõö÷øùú  w !1AQaq"2B‘¡±Á	#3RðbrÑ
+$4á%ñ&'()*56789:CDEFGHIJSTUVWXYZcdefghijstuvwxyz‚ƒ„…†‡ˆ‰Š’“”•–—˜™š¢£¤¥¦§¨©ª²³´µ¶·¸¹ºÂÃÄÅÆÇÈÉÊÒÓÔÕÖ×ØÙÚâãäåæçèéêòóôõö÷øùúÿÀ  Ø? ÿÚ   ? ÝŒüÕRZ_Þ&&ˆu	M	”.[t†·‰ÍRDh¼Óg2näèµ›Få¨Æ²gDR5
+ (  €
+ ‚QÍZ1™
+£4Š  Â´É¸Ò´Åq WcqLWaŠì1@]‰jav9†mÃu1§éN;ƒnÆuØ!Áí]HÉ‘
+Ó•Ç¯QIÅ
+å¨›"¹ç¢É×¥gcU&<ð3AWdt¬‰m‹Ò‚ìkž*’%7z´Cd.+T‘"èjÒE¦Ma©J o)ùÅyÍhw·ï Ú,QH°nR3d9ýkxœuY,kòÔÈˆ¢dÖm›ÅPo aŠ (  J9«F3!"¨Á"4 ™¦  ÅV˜„Å1XM´
+Â@4Ä,<¹³¼þŸ­e[¤&,ãpkh2dŠ#ƒ]Kb	JR!’Då^²’¸bmÂ¹å¡¬Y#t©4# BÐ"75h–3êÑ›+È~cZÄD$óZ"Ñ,'æ¥4âžkÎ{Ò~ñi[Pi<Ô›&6_»Tˆ‘˜ï‰0™¹;Td‘ü…k{²M²ÌEZ%dmÊxÏ©è~†¥±¨Xž[¶G\•“7Š$–Trä{çéRl„Yckuœ7îÊ}:ÓÃuà²ÊŠHd dôæ€'=ý¨´(  J8ªFSD¨Á4Ä0Ó”) PÓ1L,&Þ(†¦…a„b©ÐÆ8¨°‡Ý.íätuÜ?/ñª†ƒ{!ˆ5×&H£Š$CÃ#µH­OÍŠÂhpz–³7D}èš0óL‘¬p•¤I*¿ZÞ(Dg­hŠ&·aQ06“ïWŸ.‡d¾"ÀàTE’§Ý¨6‹SÅRŒ9š6¸‘àÆæR \åÊu ç¯~hlˆ£JÀ“8ÀWÊŸösË#4¡t¸¢óg¸ŠS(s€1‚¼çŸSÏåŠ†\PÍ\˜U'FetI0q´ÿ R(4.,–ijÁ|¥Œ#8Æ(6Ö¸¾aºÀ
+Èà’sŽPsùŸÂ€5Ï4 Ú P1$ûµH‰¨å{4ÀiÉhP@XZeX\PZˆœzÐW³M×#Š´K¤BFî•FR§aç&ÏU$~–âåÐËq)®˜³î(û‡éTÈê, Ôƒ'¶8pk	²¢ZcÅflˆ‰¦KÍÀŠo¹ZD†V5¼DGÞ­Z¶\sYTb5“ï×º²ø‰ÇJÍ•XÏ&Ñ)ÁÐ¤Ìæ·”-$@œí“f]3É‡ãÏQNÄ©X¿h°ˆ•G”f=©2“¸û[Uµ„Çã’X–9$ãÐ~U±Dw–Ÿjx¾}¨§.¸ê2ñQùÐQ5Üoqo,HÁÁÁ##¯z m¬oÀw31woV<çù
+ –€
+ Ph–VqóU£	!´ÈÝ)ˆn(b€ËHníÜS4Q>áÐ‚8Æh.Âo á†ïAV€Ü£ÔŒæ€±îªC«dt"©[sÓØU¢d®HÉµ	4-Ìåé†XÖñ8fµŒ&*›2ã>õb¶ŒÖ2f‘CÛŠ‚ÆS´CT€‚víZEÈHÀÍj‰#Üj›Ð¢äk·Šçœã<×<–Çd¾"ÀéP\GÆjYª	(B‘Ü°öéTbÉâÖ™5IÐ‚… %  P  €Ò„&A(ïZ#	¢*fbb	Š 1L¤†îç4j‘€“žâ¨¢HÇ9ÈÝI Ç?+)úÐ1…€ùJ’(Ê—J¤ã5¬@–ã¨éWbKŽìb ®	ýjãz¢›§Í[#Š¬´|Rlå’b¢L-ªá+&kFô#i’;Æ1Ø
+¤‰lªÜ¶kTfØ¥KJw'Š ¢¥È´‰Ñ3X¶ZDˆØaIô:'ñÐü¢²eD–>µÚ"È3Bˆ€ùªŒÚ'APÍ`‡Ô›
+ PPÐ@ E àÕ£šfA@ƒÆÆ`ŠO~Â™iBî9ÉéT‹çvÌåñœÕ=Iéµr=h`=Ÿ |«ÿ }T€ÝûÁ{h„¬èç$‘é[E @¶Cuâ¨ï,ù9ÇcR"<üûMZ3”nHSŒÒgà:$É¬›%DœŒ
+’íb»õ¦K
+b#ãT„ÙÒæ­±Â|Â°õªy†¢H«PÙ¢Dè ¨f‰çþ}jþÉ¥]Ëˆ~_Â±’,gæ¨fÑd­Í#G±ñU2TT3X¤h P@ % -  P%û¦­IñLÉ‹@Xi<uàw¦ZDkó¶ãÀ)Œ|„ Ü9#îSTŠH®ë³Ž¬y5H¡ðä›¥D®‹žüêIc\t P™<Á€y­¢1bO-qNäÜ‘@éH.Wt%ò=jË›>L
+‰3	Fä‘¦5“fq˜J ÐäV=i˜±ŒÇ ¦HÐ…4îM‰1Ú‹D‘R•ËQe+”6â•ÂÂô¤Qÿ #ñ[#J»–¢|Æe4DY*5dÑ¼YcvR‘­ÈAù©™2ÂýÚ†k ¤j-  P@	@@  Çâ™€ŒqVŒ-¨ŒqL´ˆ0ù:ƒéV‘D»T¬>QÉ4˜!çÍ”qÑ4ZCBË1ùÏ'Úš0±™ÇJDÙ=¿ZB‘™Û 
+´ÀEPÀr=¹¥tŠ¹Qšw
+6ò>CÔzU&4[~½ë9‡9Ú*Ih‰5IólˆäœA“±â(Ò¹j"ì¢ãå®Uƒ1ÅhN™R;æ´‹ÐÖªÔe»à•&œ–†BÒ5bÑ¬Y<M»Š›¦FÜ9 ™Æß(¨hÒx5&é‹@  PPÐ@ d2Þ¨Í¢		ÎJ´ZCQÈ ÀÕ…‡c$ ~QÉ÷4†ðD‡yû«÷G­=ýM111ÔÐCBùCÐÑqXd¯¡?CJã±KYsÛÛÚ¬¶;ã §&³©+ H«nQ¬°ü¬‡%Aá×¾}ëÔw5äV4á½¶»æ	HÜÆ5Õ¦ŒåØ¶=kDÅbH—yâ“/ÜéŠAb¶K/£ZÕä\u¨f6%Ž=Æ¡²Ò,y 
+žcnM4X§q8)Š.M†•Å;’ÐÓLDfÎ€6GCDÓP¤ãÊ—>µ½ô9'¡a_€Ee$8È‘«g<T4h¤K'#pïIõ›µLhN¦¡›Á€
+ (  €
+ C@1¦©FÃÒ˜ˆÙA6»Õhv"d#ŽþïcV˜î(xéÜw¦2eenWŒv¢ÀFyc@ZBqp¶Ö²Nê[n.~ó•-Ø
+Q\\¤k+9“#-0ö>µ‡´Ôi"HÚ%’=å•9­¢î„ÑG]L=¬£¦<úwÖ²ªLw ´8ÜPs\ìÙE%1)Úñ¶caÛ<ëWXFå³ýªÝfÀ~ð›¸®¸;£9"Ua»Õ‰Îs^E4P¶Ë˜É4Û1’5Å¢ÌšÆLÒ–¤ÞÀFiÜ\£
+Qr\H]qV™”¢BÂ©1‡Šd²äŠ1ÜsQ®e9¢Þ™î+e#–hŽà©íLÉhÉWš†h™4-Tþ,Ö,P0Õ#'ŒñY³X2QHÙ
+ (  a@‚€Ó#&™.£!ÿ :h¤DáÏHÏ§j¢ƒ‚¹|}Çu¦r #*I½ÅPˆ³´ä#T€Rû†ÏÄšÈ5_›Lbº;ÇÖ³©°"¥»ï@½}½k‹©h–ÞàZJUÿ ãÚSÉÇÜ_¡­©È/_Àntçp\éõ?¯õ­d®Œö1í$ÁS€Ã¿­rµcH±oWkÅ0éý?^*QEÛ7RBÌL¡Ó=œpGâ0
+è¥"'±qÌ~RGa]B::cëT™C‘vŽ:PÙz®Z¡³&‹H¸ZÉ›AHÐZ ZC(HÊEb9­„ŠÓ78U#)MƒY#¶D,¸r;•i˜I¤_.\ö­S9äµ$SÈ©c‰ àƒPÍ?P©4CÐàT3H“•&é‹@Â€
+ (”3@†æ™-ŒÏÍTEÆHƒÒ©Ä„;Ä}V¨¡ÿ #Ñü¯éë@®'åFÇîC@"ÏUoçV‰h„N)ØDàFñ´N £©Vúµ@aí’Òf†AûÄü™{\SNå¦[’Å‚`ƒÒ¥;YÓfxd[I	e ùNOÌä©õúÖðô"Q(^À-o¥‰F¿x˜éƒ×õ¦¢¶¢ƒèI´\Û´gø†+B)Û,UÈýâüøôa÷‡óý*“¶Á¹=•ûÇI– ÏüJ1×ÜWDjw!Å ‡ˆ2èFA^õ²iŠÖ7 S!’ÇYÈ‚Êô¨5ˆR,( n”ÈÕ#22*Ñ‹+²äÕ¦g$h2åk¶DL	Qê•HÅ¢¼é¸fµLÆ¢!ŒààÓd-	úŠ†Z&‰LzT³TÇ)Á¨h´É‘¸¨hÖ,x Ñ  P1(ÓÅ2Ìõ¦Cb“ôÅr,¹IªFÑ²¤ß)áª‡r7Œ©È$h@$'‰¡¦"9>ðì})¡Ü‰\Á«,¡ùz‚>•Dö‚òWåîßÙ>Õ„ãq£ÞRž«éí\ÍX´Ë’)uùHV26:Ò„ìPº¬«q­Ú®Ã¹¡u?Âzãð þu¬õ‰’Vd6­ÀŽ+DÇÅû»™SøX‰ã÷¿\PvIåK,]<³î§‘ýhþ™•ŠâáY(ô ÿ 1]4™3Ø²€““Ú·1,/QQ!¯JÌÒ"Ò,(¥2YÕ#	Œ5FcHÍØ·Ôb³:äFÃžÇƒTŒš!‘píÚ­3)"«.¬É«Fý&†˜ì•<T²ÓæîNŒr+6mN½*Mâ PP!ŽjŒ¤GLÍˆôíLÊóÕhÙ22ªç àÕUvA†éAIˆH=(ÖLŠb UÄœÕ	—#\*‡äŽO_Z‘˜Úµ¹†çí*0“ŸŸ×ñ¬'“&Ý9é\íˆ/CG2®å,›Ç¡¯ó­º±-\-›2c?xT‚$¸BÌƒæNqêQH¡Ì¤\,È:¯ïÇbÎAÔŠNê¡O¸Ïó¶¤É–ÅÔR#<dgñ®£‰S¨¬ä"Ât¨eÄu#@ 4‚AÍZ0™FaŠ@Zô¬Î–5×"™-•Ü„c‘V™“E9~VéZ£	"?qLÌš69¨h´Ç¯Z’Ñ<z³‘´IÅIº‚Â€	LLÏ4ÌÛNR3loHÀõ ]ß8êh‹r2FP…ßžPP¡0xéAHxRZEùª™4zû`T²I·AŸÆ¤c&nmÞ9V=cøTµ ÌKV(Æ)Ì>R=ÇË%fiY AäƒR14^Šá@‡P0í@\n»'Þ/Ô)Å·çzãkƒíÛù×l^†R½i36L†³eÅ¤h‚zÓŽjÑŒÈÈ¦f RÇ¥AÔÈÏÊÙªFmîcÏÌ+X³"›§¢9ä¬*>Ö¤Ð&N­‘‘PÑ¢‘<OƒY´mZC:"Å‹š ( ¦K+±ËÕ#1ÌqL_¯Ò‚‘&ò7ã ­(dŠUzäúz
+c±ñÒ˜É hx¤Qš:1·Ò•É%Þ;*Aq±Î(˜7£ËÔ§¹WˆçùW5U©qež éY  PÇCÓ½ XÓ$`¯lÇ&òçºcË‘øWU9]X‰¢þjÙÏ"XÍfÊ‰(©6A@Â€#qVŒ¤FE3&…QHiúT›° CXqMÐÌnR§ð«L†Š3Å‚kh³–¤JçùU˜½E!¥¢“-#÷¬ÜM£"ÜReFk#¦&ÎEI²cM
+p)¢[ø‰«0å1'° 3Í¡ŽÁR,hÜÜc'®Üÿ Z¡Œ0àz·sØS¸	¦Š}i1Œ™Ö%,ì þ”›°2°½¿ÔÉ·±ÿ ‡4.RÄ7qLûRdýÖùOëMI1X–C·®OµRÔLÈÕ­ÜR~2¤û©ÿ *Êª*¢9ŒåfÈ}  ” ¿Ž(¼›¨%Þ[úmoð8­);0zšÇ† šê{“Ñ“EYHq&R((TˆÂ)™Ø‡Ò6a@… Ø`æ¨†ˆ§MË¸V‘f3E	5´YË(‘éVI4Rä`õ¨h¸²ÌOŠÆHÞ2-G&k&ŽˆÈ“ Ò±¢™ WúS"D@sLÌq\PRB("‘{V‹€»ñßÞ¨s… žÝ We äþ@(l´§vw^*±V0Ê=É9ü°+
+ „é\­š!+œZ|Ö!æ‡ý[4©ÝüÃèkXÕd¸†¥so%„LŽyÜ|ÃƒœŠÒrMËb;RJç«•šô& €
+ :ñ@ÜÖÒã®ÒGÔú©Äe`Ø~Ì®Õðœµ7,Dx¬ä(
+“t† †™,aª!ˆ¼Rd¤lÂ@"˜™á¶Ÿºj‘”‘Vh¶äÂ¶‹0š+2í5ªf-?)È¦"x¤ÍC‰qdë&+'e"Tš†‰”ñRÍS¤& 
+ÀhÒ) Cž3VŠ#cÍPÄ^OÍL–ãÓ¹ Ù@§q‘ÉJ˜¹#£w¥`#’Ì…Ý1aÿ ,ÜõúÂTGrä!eìpA ×3ŠLZCñ$¼Ÿ¹îió0 - 'J FuQ–` 4HXeP•þóp( !Ho”c)ÿ  ’	ä·x¼ÉYá «| ãŽÑ
+§›î²'™«§¨<Ÿj¦Ñ”SLzTš  bÐ1(i™±2Y/¥I¸PHS ¤d\Ž”Èh×ÊÝ{Ñ3)"»GAê+TÌ$ŠÌ0Ø­3hi;iˆž'ÝS$iY¥bÑ²&VÀ¬Ú5LPwC¸ð0*J°„SaÅ4y2µhŠ@HUj€nëÅ”œzúÐl b•ÆDrŽ*„?pÛŒP"½Ý³9kˆðfç_ùè=G¸¬'RE§žàõ…r´Ó4Lu  Pyåç
+pS@Û¢‘ö©NÇ‘úãùSß¿¯z@ ´- @<¶2DÆñ/­W16/Ã«mnãØü´NWñGáT¤+Êè®ŒOB:Ñ0°ê¨†™úÓ!–*NØJ` ”W™qÓŠ¤e$ _2"q‡­Zfv*K žõ¬Y”¢W#?)­S!¡#-r8¤Æ‘r)¬¤¢M’Ý+&Z'‰p9¨f±$©,B(¤SÃ5¤FAœ€Ö€=FîXÿ õ¨’dŽ Éô©<·A@ÆHýi“q¨¥º	%Ux?…&ÊDSAày±«¸èO~5	Žå)­¤·mÐ–š>èß|}=k)Ò¶Å'b¹‰³µ³Ž¾ßZÂÍ;Œ–|Œ% prHõ¥p¯æ¸–bJ/1 ÿ ÐøSÚ°q‘@@ &Y¦D?zÃ8ì£ÔÒl;é¹PVgó®OõîÐ™|¥ü„’Ú`"q!dðA;OÖµŒŒå>žÕhÍè%1\i¦!L†OPt %1	L D2ÓFrC@#‘Ö™†:½ÜU¦KEYmò7/^õ¤dfâ1GË†¥ÅËbxÒ0GzÎL¸¢Ê¨Ï²f©/›4BÒ,(+Ì8­"VÖ¨K÷±L	qè§¯©©b¸¥ùÚ¸ã·aHW#~[ŸzIÚqÁö<‡dväûE!üœõ dj9ÍPŠ÷6PÎÛÝJIýä85›¦˜Ó þÈ|—®fè˜§uÙîZmÃh`HÆAÏøVN)1½;T=Ì‡+HQHŽô ’ÈQWhïÂŒ~´6	\³§B#vä»cæcÜÔ6k—½©`uG]®¡Ç¡ªLVh8RgNÊø¿CÓó­TÌ¥M2Ä71Í§kŽ¨Üþ5¢i˜Ê6$#ŒU¢„l)Éê  ALA@ˆß­4DƒS&ÄDÙh%¡àŽ}ª®4†˜TöªS%Ä%¥'1¨QsD…iu!…
+ ŠEÈ«B*H„+DÉ¸€=*®+‹×¾=èt) å#¦(B€õ©)*äPPÖnj’>† Á<äÒŽ
+½œ¯¶(ÆùÉ&ùbIX¨<zTJ)…Ì½BÀÙ6,µ³Ÿ¯–Oo§½sN©AÏ=«&ŠÜF}ƒ8'³ÔúPÈðeœæVàÿ ²=*Y¬QvÏ~Äô©4,Ð@GU Ã8éê>•JM	ÄE{ˆOÊÞt~÷‡Ñ¿Æµ^†3¤OÄs°EÈ“þy°Ã~]ëe$sÊ³HØ(  BS(Ö¦g!°ÖÓå¤4‡â‚¬&)J bÐÐ0 b‘M®éÍh™•ª¸¬0àaaTnéúÐ¢ˆö†Ï± ,.à:ði ‡-E†C'ËÖ­lnIö¦"ef,›Žü~ .ìŽ }(-­»ýå=ë6®3êÍ¬Ûrîkb~÷xÏ¡¬'Vtó3ÊÞµ›,š9¥ˆaO˜¿Ý'šžRÔ‹V·q´€©ÃŽ¨zâ¥¦h¤E ¨#½&Vá@	@ /ó C^$•Ê¡”tã‘T™<¦…u J )ˆkiÀ
+@S&À)´ P  …‰@†8ÍR^@vœU¡ªdòj’$
+W€û2ÃwÍ…äÿ uúŠDØnìœqžâXU Ð#•KxH`‘Šw!’¨*1Ú¥±
+sÛ•H~í2‘.ìDGOjLc<²Œôùn&Ìã§Û®x~¼Õ>ÁëXš>Ó÷!ûDšŸd‘1®Ë)mjÊch"Ùè£~U2‚-T`-f¶Éo>!ÑXáÇÐô?sÊ—c¦AeGmƒ*ãª0Á¬ÚhèM4:Ä¤ÐBõv¡@ …Â˜"‚,"õ ,/zaq@X1@Ã ”
+Á@X\P0Å 1@E+Ê¿•h˜¬E´zíŠ½ÀNqõ£A‘É eãœzÓÐ1‘“Ï½ JpOó¥ ¬1¾n§õ§p°¨9Èüh¹6$ã§Ì¦¥ØVB€Æñø­-”ˆ›ƒõªV‡‚6ã"“°µ#•ÀN*ãb]Êç'‘W§s–WobTà{ýj@“ìH¬A›±i²âÇéPoÆMs.%]Øä7B?‰A3^fVh¦‹”ÿ HÛ‡‡zÂTìm¨±È“)hÈ pqü'ÜVLÙ4/ùëKä;‰ŸÖŸÈ.ÿÙ                                                                                                                                                                                                                                                                                                                                                                                                                           MZ       ÿÿ  ¸       @                                      º ´	Í!¸LÍ!This program cannot be run in DOS mode.
+$       ×î•Ø“û‹“û‹“û‹Î­ñ‹—û‹Î­ÿ‹‘û‹{ð‹’û‹’®ÿ‹‘û‹Åè‹û‹Ê¬è‹‘û‹“ú‹´û‹Ì­ð‹û‹T‰ý‹’û‹l¯ÿ‹•û‹Rich“û‹                        PE  L F¢::        à !     €                                                                       €(  ­   è#  x    @  8K                     €                                                      ¨                           .text   ´                          `.rdata  -	                         @  @.data   h   0      0              @  À.rsrc   8K   @   P   @              @  @.reloc  ø                       @  B                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                V‹ñ‹NüWFüPÿQ~ü†œ  ‹Ï÷ÙÉ#ÈƒÁHÿ\  ‹Ï÷ÙÉ#Îÿœ  _^Ã‹QÿP3ÀÃ‹D$‹ˆ¤  ‹IŒ¤  ‹ÿP3ÀÂ ¸@ €Â ¸@ €Â ¸@ €Â ¸@ €Â ¸@ €Â ¸@ €Â ¸@ €Â ‹A‹@‹D÷ØÀ%ý¿ÿ@ €Â j j ÿt$jehÐ0 ÿ  Â ƒ|$u$hØ  ¹Ð0 ÿt$h0 è$   ÿt$ÿ,  ëƒ|$ uhÐ0 ÿ  jXÂ U‹ìì¸   SVW‹ñÿuÇFpX0 ‰5È0 ÿuÇ„   ÇFd   Vÿ  3Û9]tjÿuh¸0 èõ	  ƒÄSSSÿ(  ¿”   ‰FW…HÿÿÿSPèÍ	  ƒÄ…Hÿÿÿ‰½HÿÿÿPÿ$  EÜPÿ4  ƒ½Xÿÿÿu	ƒ½LÿÿÿsV‹EðƒøvNƒNtÿÀ3É©   €uÑntÑàAƒù |îÑnt‹Ft…   PSÿvÿ0  ‰Fx3ÿSSSÿ(  ‹Nx‰¹G;~tvëë‰^x‰^t_^3À[ÉÂ 3À9
